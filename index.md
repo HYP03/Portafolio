@@ -9,7 +9,7 @@ Este repositorio incluye el ajuste de un modelo ARMA para pronosticar el númér
 ## [Deteccion temprana del Alzheimer](https://github.com/HYP03/Deteccion_Alzheimer)
 Este repositorio incluye la comparacion de diferentes metodos de clasificacion para la deteccion temprana del Alzheimer. 
 
-![](images/imag_Sunspots.jpg)
+![](images/Alz.jpg)
 
 ---
 <center>© 2020 Khanh Tran. Powered by Jekyll and the Minimal Theme.</center>
